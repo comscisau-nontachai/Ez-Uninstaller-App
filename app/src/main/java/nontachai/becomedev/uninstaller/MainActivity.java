@@ -298,7 +298,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 res.add(newInfo);
                 appTotal++;
             }
-
         }
 
         if(bool){
